@@ -1,0 +1,23 @@
+{
+  "name": "mayank-unit-test",
+  "version": "1.0.0",
+  "description": "this package can be used for unit testing of ionic and angular app",
+  "main": "index.js",
+  "scripts": {
+    "test": "testapp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankprayas/unit-test.git"
+  },
+  "keywords": [
+    "unit-test",
+    "mayank"
+  ],
+  "author": "mayankprayas@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayankprayas/unit-test/issues"
+  },
+  "homepage": "https://github.com/mayankprayas/unit-test#readme"
+}
